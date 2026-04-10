@@ -6,11 +6,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👋 About Me</h2>
 
 ###
 
-<p align="left">👋 About Me<br><br>
 I'm a Cloud & MLOps Platform Engineer passionate about building efficient, scalable, and reliable systems. I work across cloud infrastructure, DevOps, and ML platforms — from designing Kubernetes based distributed systems to building end-to-end MLOps pipelines. I enjoy automating everything and making systems observable, resilient and production ready.<br><br>
 ☁️ Cloud & Infra: AWS, Kubernetes, Helm, Terraform, Ansible, Istio, Jenkins, GitHub Actions, Prometheus, Grafana<br>
 🤖 ML Platform & MLOps: KServe, MLflow, Kubeflow, Argo CD, DVC, Model Registry, Model Monitoring<br>

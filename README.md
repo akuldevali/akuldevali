@@ -66,5 +66,5 @@ I'm a Cloud & MLOps Platform Engineer passionate about building efficient, scala
 🏆 AWS All Builders Welcome Grant — attended AWS re:Invent Las Vegas 2025<br>
 ☁️ 2X AWS Certified: Solutions Architect Associate<br>
 🌐 Google Cloud Platform Specialization — Architecting with Google Compute Engine<br>
-👨‍🏫 Teaching Assistant @ NC State University<br>
+👨‍🏫 CS @ NC State University<br>
 </p>

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akul. I am currently pursuing my Masters in Computer Science at NC State. I am a Cloud & MLOps Platform Engineer based in Raleigh, NC.</p>
+<p align="left">My name is Akul. I'm a DevOps Engineer at FlexGen Power Systems, based in Raleigh, NC, with a Master's in Computer Science from NC State.</p>
 
 ###
 
@@ -10,11 +10,12 @@
 
 ###
 
-I'm a Cloud & MLOps Platform Engineer passionate about building efficient, scalable, and reliable systems. I work across cloud infrastructure, DevOps, and ML platforms — from designing Kubernetes based distributed systems to building end-to-end MLOps pipelines. I enjoy automating everything and making systems observable, resilient and production ready.<br><br>
-☁️ Cloud & Infra: AWS, Kubernetes, Helm, Terraform, Ansible, Istio, Jenkins, GitHub Actions, Prometheus, Grafana<br>
+I'm a Cloud, DevOps & MLOps Platform Engineer passionate about building efficient, scalable, and reliable systems. I work end to end — from production CI/CD release pipelines on AWS, to Kubernetes-based distributed systems, to provisioning bare-metal servers on-prem and configuring them into an observable fleet. I like automating everything and making systems observable, resilient, and production ready — whether they run in the cloud or on physical hardware.<br><br>
+☁️ Cloud & Infra: AWS (CodePipeline, CodeBuild, EventBridge, Lambda, ECR), Kubernetes, Helm, Terraform, Ansible, Istio, Jenkins, GitHub Actions, Prometheus, Grafana, Loki<br>
+🖥️ Bare-Metal & Provisioning: MAAS, PXE boot, Rocky Linux, IPMI/BMC, skopeo<br>
 🤖 ML Platform & MLOps: KServe, MLflow, Kubeflow, Argo CD, DVC, Model Registry, Model Monitoring<br>
 🔧 Languages & Tools: Python, Bash, JavaScript, React, PostgreSQL, Docker<br>
-📚 Currently exploring: AI Agents, GenAI, GitOps, LLMOps</p>
+📚 Currently exploring: AI Agents, MCP, DevOps agents, GitOps, LLMOps</p>
 
 ###
 
@@ -41,8 +42,14 @@ I'm a Cloud & MLOps Platform Engineer passionate about building efficient, scala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="40" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white" height="40" alt="Loki" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab" />
+
+  <!-- Bare-Metal & Provisioning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" width="40" alt="Rocky Linux" />
+  <img src="https://img.shields.io/badge/MAAS-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="40" alt="MAAS" />
+  <img src="https://img.shields.io/badge/skopeo-2496ED?style=flat-square&logo=podman&logoColor=white" height="40" alt="skopeo" />
 
   <!-- MLOps (shields for missing devicons) -->
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="40" alt="Argo CD" />
@@ -60,11 +67,20 @@ I'm a Cloud & MLOps Platform Engineer passionate about building efficient, scala
 
 ###
 
+<h2 align="left">💼 What I'm working on</h2>
+
+<p align="left">
+🚀 <b>DevOps Engineer @ FlexGen Power Systems</b> — building and hardening a production release pipeline on AWS (CodePipeline, CodeBuild, EventBridge, Lambda) for a large monorepo: dual-push Docker images to Docker Hub &amp; Amazon ECR, git-tag resolution across build stages, Slack failure notifications, and nightly builds via GitHub Actions.<br>
+🖥️ <b>Bare-metal provisioning</b> — imaging production servers end to end with PXE boot + MAAS (Rocky 9), hardware burn-in, IPMI/network config, and Ansible-driven observability rollout (Grafana, Loki).<br>
+</p>
+
+###
+
 <h2 align="left">🏅 Certifications & Achievements</h2>
 
 <p align="left">
 🏆 AWS All Builders Welcome Grant — attended AWS re:Invent Las Vegas 2025<br>
 ☁️ 2X AWS Certified: Solutions Architect Associate<br>
 🌐 Google Cloud Platform Specialization — Architecting with Google Compute Engine<br>
-👨‍🏫 CS @ NC State University<br>
+🎓 M.S. Computer Science @ NC State University<br>
 </p>

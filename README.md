@@ -1,86 +1,105 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Akul</h1>
 
-###
+<p align="left">
+I'm a <strong>DevOps Engineer at FlexGen Power Systems</strong> with a passion for building scalable cloud infrastructure, platform engineering solutions, and MLOps systems. I recently graduated with a Master's in Computer Science from NC State University and am based in Raleigh, NC.
+</p>
 
-<p align="left">My name is Akul. I'm a DevOps Engineer at FlexGen Power Systems, based in Raleigh, NC, with a Master's in Computer Science from NC State.</p>
+---
 
-###
+## 👋 About Me
 
-<h2 align="left">👋 About Me</h2>
+I'm an Engineer passionate about building reliable infrastructure, automating everything, and designing production-ready cloud platforms. My experience spans AWS, Kubernetes, CI/CD, infrastructure automation, observability, release engineering and MLOps.
 
-###
+Currently at **FlexGen**, I work on production infrastructure by improving AWS release pipelines, provisioning bare-metal Linux servers, automating infrastructure with Ansible, and deploying monitoring and logging stacks used for customer deployments.
 
-I'm a Cloud, DevOps & MLOps Platform Engineer passionate about building efficient, scalable, and reliable systems. I work end to end — from production CI/CD release pipelines on AWS, to Kubernetes-based distributed systems, to provisioning bare-metal servers on-prem and configuring them into an observable fleet. I like automating everything and making systems observable, resilient, and production ready — whether they run in the cloud or on physical hardware.<br><br>
-☁️ Cloud & Infra: AWS (CodePipeline, CodeBuild, EventBridge, Lambda, ECR), Kubernetes, Helm, Terraform, Ansible, Istio, Jenkins, GitHub Actions, Prometheus, Grafana, Loki<br>
-🖥️ Bare-Metal & Provisioning: MAAS, PXE boot, Rocky Linux, IPMI/BMC, skopeo<br>
-🤖 ML Platform & MLOps: KServe, MLflow, Kubeflow, Argo CD, DVC, Model Registry, Model Monitoring<br>
-🔧 Languages & Tools: Python, Bash, JavaScript, React, PostgreSQL, Docker<br>
-📚 Currently exploring: AI Agents, MCP, DevOps agents, GitOps, LLMOps</p>
+- ☁️ **Cloud & Platform Engineering:** AWS, Kubernetes, Docker, Helm, Terraform, Ansible, GitHub Actions, Jenkins
+- 🖥️ **Infrastructure:** Linux, Canonical Metal-As-A-Service, Rocky Linux, PXE, IPMI, Bare Metal Provisioning, Networking
+- 📈 **Observability:** Grafana, Loki, Prometheus
+- 🤖 **ML Platform & MLOps:** Kubeflow, KServe, MLflow, Argo CD, DVC
+- 💻 **Languages:** Python, Bash, TypeScript, JavaScript, React, PostgreSQL
+- 🚀 **Currently Exploring:** AI Infrastructure, LLMOps, GitOps, Distributed Systems
 
-###
+---
 
-<h2 align="left">🛠️ The tools I use</h2>
+## 🚀 What I'm Working On
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+### 🔹 DevOps @ FlexGen Power Systems
+- Building and optimizing AWS release pipelines
+- Automating infrastructure provisioning with Ansible
+- Provisioning bare-metal servers using MAAS and PXE Boot
+- Configuring Linux networking and IPMI
+- Deploying observability platforms with Grafana and Loki
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+### 🔹 Cloud Platform Engineering
+- Kubernetes Platform Engineering
+- Infrastructure as Code
+- CI/CD Automation
+- Cloud Networking
+- Distributed Systems
 
-  <!-- Cloud & Infra -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" alt="Helm" />
+### 🔹 MLOps
+- Kubeflow Pipelines
+- KServe Model Serving
+- GitOps with Argo CD
+- MLflow Experiment Tracking
+- Model Versioning & Monitoring
 
-  <!-- CI/CD & Observability -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="40" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white" height="40" alt="Loki" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" alt="Prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab" />
+---
 
-  <!-- Bare-Metal & Provisioning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rockylinux/rockylinux-original.svg" width="40" alt="Rocky Linux" />
-  <img src="https://img.shields.io/badge/MAAS-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="40" alt="MAAS" />
-  <img src="https://img.shields.io/badge/skopeo-2496ED?style=flat-square&logo=podman&logoColor=white" height="40" alt="skopeo" />
+## 🛠️ Tech Stack
 
-  <!-- MLOps (shields for missing devicons) -->
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="40" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="40" alt="MLflow" />
-  <img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="40" alt="KServe" />
-  <img src="https://img.shields.io/badge/Kubeflow-007BFF?style=flat-square&logo=kubeflow&logoColor=white" height="40" alt="Kubeflow" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" height="40" alt="DVC" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" height="40" alt="Istio" />
+<div align="left">
 
-  <!-- DB & OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+### Cloud & Infrastructure
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+### CI/CD & Observability
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+
+<img src="https://img.shields.io/badge/Loki-F2C94C?style=flat-square&logo=grafana&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/MAAS-77216F?style=flat-square&logo=ubuntu&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PXE%20Boot-0052CC?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/IPMI-FF6F00?style=flat-square" height="28"/>
+
+### MLOps
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Kubeflow-007BFF?style=flat-square&logo=kubeflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white" height="28"/>
 
 </div>
 
-###
+---
 
-<h2 align="left">💼 What I'm working on</h2>
+## 🏅 Certifications & Achievements
 
-<p align="left">
-🚀 <b>DevOps Engineer @ FlexGen Power Systems</b> — building and hardening a production release pipeline on AWS (CodePipeline, CodeBuild, EventBridge, Lambda) for a large monorepo: dual-push Docker images to Docker Hub &amp; Amazon ECR, git-tag resolution across build stages, Slack failure notifications, and nightly builds via GitHub Actions.<br>
-🖥️ <b>Bare-metal provisioning</b> — imaging production servers end to end with PXE boot + MAAS (Rocky 9), hardware burn-in, IPMI/network config, and Ansible-driven observability rollout (Grafana, Loki).<br>
-</p>
+- 🏆 AWS All Builders Welcome Grant Recipient — AWS re:Invent 2025
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🌐 Google Cloud Specialization — Architecting with Google Compute Engine
+- 🎓 M.S. Computer Science — North Carolina State University
 
-###
+---
 
-<h2 align="left">🏅 Certifications & Achievements</h2>
+## 📫 Connect with Me
 
-<p align="left">
-🏆 AWS All Builders Welcome Grant — attended AWS re:Invent Las Vegas 2025<br>
-☁️ 2X AWS Certified: Solutions Architect Associate<br>
-🌐 Google Cloud Platform Specialization — Architecting with Google Compute Engine<br>
-🎓 M.S. Computer Science @ NC State University<br>
-</p>
+- 🌐 Portfolio: https://akuldevali.fyi
+- 💼 LinkedIn: https://linkedin.com/in/akuldevali
+- 📧 Email: akul.devali@gmail.com
